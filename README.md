@@ -59,7 +59,7 @@ I’m a **Backend Developer** with a focus on building scalable and efficient sy
 ## 📫 How to Reach Me
 
 - **Email**: [abdessamad.hadd@gmail.com](mailto:abdessamad.hadd@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abdessamad-hadd)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abdessamad-haddouche)
 - **GitHub**: [GitHub Profile](https://github.com/abdessamad-haddouche)
 
 ---
